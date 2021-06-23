@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - SILVASSA  || 23 Jun 2021 | 07:43:41 PM
+-------------------------------------------------------------
+Current temperature is: 28.62 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 71 %
+Current wind speed    : 4.73 kmph
